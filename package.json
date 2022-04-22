@@ -29,7 +29,7 @@
   "dependencies": {
     "@kubernetes/client-node": "^0.8.2",
     "express": "~4.16.4",
-    "formidable": "~1.1.1"
+    "formidable": "~1.2.6"
   },
   "devDependencies": {
     "@azurepipelines/webapp-kube-summary": "^3.155.0",
